@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="week7demo" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="nl.avans.week7demo.Controller" />
+    <module name="week7demo" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
